@@ -142,15 +142,3 @@ VLAN Network 192.168.0.0/16
 |                         |                     |                                                | -    |                                   |
 
 ----------------------------------------------------------------
-## Initial Configuration
-To-be-added:
-- Basic configuration for all routers, eg: name, hostname, password, vty lines, banner, encryption, ssh
-- Basic configuration for all switches, eg: name, hostname, password, banner, encryption, ssh
-- Ip Addressing for all PCs -> DHCP WHERE DHCP? DC (AD) static()
-- VLANS, trunks, intervlan routing, router on a stick, router config 
-- VLAN TROUBLESHOOT
-- Security Configuration, ACL, Firewall rules, Secure configs for router and switches
-- report for effectiveness
-- Test network, performance, functionality security assesment, Presentation
-- Slides 
- 
