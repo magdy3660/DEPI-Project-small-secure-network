@@ -1,10 +1,5 @@
 # DEPI-Project-small-secure-network
-## **Network  Project Report**
-abdelrahman -> topology design, ip scheme, review firewall rules, 
-test ACL rules , documentation, inter vlan routing 
-MALAK -> PACKET IMPLEMENTATION initial configuration
-YEHIA -> ROUTING + VLAN
-BASEM -> Security Imp
+
 
 
 ## Network Diagram:
